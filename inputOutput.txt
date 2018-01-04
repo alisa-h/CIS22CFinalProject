@@ -1,0 +1,25 @@
+Croatia, 25, 11, 13, 11
+North Korea, 24, 14, 13, 22
+Kenya, 23, 24, 33, 29
+New Zealand, 22, 42, 18, 40
+Unified Team, 21, 54, 44, 37
+Federal Republic of Germany, 20, 69, 82, 94
+Poland, 19, 70, 89, 132
+Cuba, 18, 72, 67, 69
+Austria, 17, 77, 111, 112
+Romania, 16, 88, 94, 119
+South Korea, 15, 107, 99, 90
+Canada, 14, 121, 154, 173
+Japan, 13, 140, 142, 161
+Australia, 12, 143, 156, 180
+Hungary, 11, 167, 147, 168
+Norway, 10, 174, 160, 144
+Russia, 9, 182, 167, 179
+Democratic Republic of Germany, 8, 192, 165, 162
+Sweden, 7, 193, 203, 231
+China, 6, 213, 166, 147
+France, 5, 232, 254, 292
+Italy, 4, 235, 200, 228
+Germany, 3, 251, 260, 270
+USSR, 2, 473, 376, 355
+United States of America, 1, 1074, 860, 752
